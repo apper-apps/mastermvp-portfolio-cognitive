@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "quote": "MasterMVP delivered our AI-powered content platform in just 6 days. The quality exceeded our expectations and we're already seeing incredible user engagement.",
+    "author": "Sarah Chen",
+    "company": "ContentFlow",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b641?w=150&h=150&fit=crop&crop=face",
+    "projectId": "1"
+  },
+  {
+    "Id": 2,
+    "quote": "The team understood our vision perfectly and built exactly what we needed. Our finance tracker MVP has 2,000+ users and growing fast.",
+    "author": "Michael Rodriguez",
+    "company": "FinanceAI",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "projectId": "2"
+  },
+  {
+    "Id": 3,
+    "quote": "Working with MasterMVP was incredible. They transformed our real estate business with an AI assistant that handles leads 24/7. Revenue increased 60%.",
+    "author": "Jennifer Park",
+    "company": "PropTech Solutions",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "projectId": "3"
+  },
+  {
+    "Id": 4,
+    "quote": "The fitness app they built has a 4.8-star rating and helped us serve 5x more clients. The AI coaching features are game-changing.",
+    "author": "Alex Thompson",
+    "company": "FitCoach Pro",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "projectId": "4"
+  },
+  {
+    "Id": 5,
+    "quote": "Our recipe platform now has 50,000+ monthly users. MasterMVP delivered a beautiful, functional MVP that our food bloggers love.",
+    "author": "Emily Watson",
+    "company": "RecipeShare",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
+    "projectId": "5"
+  },
+  {
+    "Id": 6,
+    "quote": "The AI-powered learning platform has revolutionized our online courses. Students complete 40% faster with 90% completion rates.",
+    "author": "Dr. Robert Kim",
+    "company": "EduAI",
+    "avatar": "https://images.unsplash.com/photo-1559566153-0c8e63d7ae48?w=150&h=150&fit=crop&crop=face",
+    "projectId": "6"
+  }
+]

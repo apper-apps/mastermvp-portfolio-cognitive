@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "title": "MVP Development",
+    "icon": "Rocket",
+    "description": "End-to-end MVP development from concept to launch with modern tech stack and best practices.",
+    "features": [
+      "Full-stack development",
+      "Modern UI/UX design",
+      "Database architecture",
+      "API development",
+      "Deployment & hosting",
+      "Performance optimization"
+    ],
+    "exampleUseCase": "A fintech startup needs a secure banking app MVP with user authentication, transaction tracking, and AI-powered financial insights - delivered in 7 days."
+  },
+  {
+    "Id": 2,
+    "title": "AI Integration",
+    "icon": "Brain",
+    "description": "Seamlessly integrate cutting-edge AI capabilities into your product using OpenAI, Claude, and custom models.",
+    "features": [
+      "OpenAI GPT integration",
+      "Custom AI model training",
+      "Natural language processing",
+      "Computer vision features",
+      "Recommendation engines",
+      "Chatbot development"
+    ],
+    "exampleUseCase": "An e-commerce platform wants to add AI-powered product recommendations and customer service chatbot to increase sales and reduce support costs."
+  },
+  {
+    "Id": 3,
+    "title": "Product Strategy",
+    "icon": "Target",
+    "description": "Data-driven product strategy and roadmap planning to ensure your MVP addresses real market needs.",
+    "features": [
+      "Market research & analysis",
+      "User persona development",
+      "Feature prioritization",
+      "Competitive analysis",
+      "Go-to-market strategy",
+      "Success metrics definition"
+    ],
+    "exampleUseCase": "A healthcare startup needs to validate their telemedicine app concept and develop a strategic roadmap for patient acquisition and retention."
+  },
+  {
+    "Id": 4,
+    "title": "Rapid Prototyping",
+    "icon": "Zap",
+    "description": "Quick, interactive prototypes to test ideas and gather feedback before full development begins.",
+    "features": [
+      "Interactive wireframes",
+      "Clickable prototypes",
+      "User flow mapping",
+      "Design system creation",
+      "Usability testing",
+      "Iteration based on feedback"
+    ],
+    "exampleUseCase": "A gaming company wants to prototype a new mobile game mechanic and test user engagement before investing in full development."
+  },
+  {
+    "Id": 5,
+    "title": "UX/UI Design",
+    "icon": "Palette",
+    "description": "Beautiful, conversion-focused design that delights users and drives business results.",
+    "features": [
+      "User experience research",
+      "Interface design",
+      "Design systems",
+      "Accessibility compliance",
+      "Mobile-first design",
+      "Conversion optimization"
+    ],
+    "exampleUseCase": "A SaaS platform needs a complete design overhaul to improve user onboarding and reduce churn by creating intuitive, engaging interfaces."
+  },
+  {
+    "Id": 6,
+    "title": "Launch & Growth Support",
+    "icon": "TrendingUp",
+    "description": "Comprehensive support to successfully launch your MVP and scale based on user feedback and metrics.",
+    "features": [
+      "Launch strategy planning",
+      "Analytics implementation",
+      "A/B testing setup",
+      "Performance monitoring",
+      "Bug fixes & updates",
+      "Growth optimization"
+    ],
+    "exampleUseCase": "A social app needs post-launch support to monitor user engagement, implement new features based on feedback, and scale infrastructure for growth."
+  }
+]

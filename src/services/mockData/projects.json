@@ -1,0 +1,116 @@
+[
+  {
+    "Id": 1,
+    "title": "AI Content Generator",
+    "slug": "ai-content-generator",
+    "category": "AI",
+    "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "A startup needed to create high-quality marketing content at scale but lacked the resources for a full content team.",
+    "approach": "We built an AI-powered platform using GPT-4 that generates blog posts, social media content, and email campaigns tailored to their brand voice.",
+    "result": "Reduced content creation time by 80% and increased content output by 500%. The platform now serves 1,000+ active users.",
+    "techStack": ["React", "Node.js", "OpenAI API", "PostgreSQL", "Tailwind CSS"],
+    "testimonial": "MasterMVP delivered exactly what we needed in just 6 days. The AI content quality is incredible!",
+    "clientName": "Sarah Chen",
+    "completionDate": "2024-01-15",
+    "featured": true
+  },
+  {
+    "Id": 2,
+    "title": "Smart Finance Tracker",
+    "slug": "smart-finance-tracker",
+    "category": "SaaS",
+    "thumbnail": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "Personal finance management was too complex for everyday users who wanted simple expense tracking with intelligent insights.",
+    "approach": "Created an intuitive SaaS platform with AI-powered categorization, spending insights, and predictive budgeting features.",
+    "result": "Achieved 2,000+ sign-ups in the first month with 85% user retention rate. Users report saving 20% more money on average.",
+    "techStack": ["Next.js", "Stripe", "Supabase", "Chart.js", "Framer Motion"],
+    "testimonial": "The MVP exceeded our expectations. Users love the AI insights and the interface is beautifully designed.",
+    "clientName": "Michael Rodriguez",
+    "completionDate": "2024-02-20",
+    "featured": true
+  },
+  {
+    "Id": 3,
+    "title": "Real Estate Assistant",
+    "slug": "real-estate-assistant",
+    "category": "AI",
+    "thumbnail": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1448630360428-65456885c650?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "Real estate agents needed an AI assistant to handle lead qualification and property recommendations for clients.",
+    "approach": "Built a conversational AI that understands client preferences, qualifies leads, and matches properties using natural language processing.",
+    "result": "Increased lead conversion by 60% and saved agents 15 hours per week. Now processing 500+ conversations daily.",
+    "techStack": ["React", "Python", "OpenAI API", "MongoDB", "WebSocket"],
+    "testimonial": "This AI assistant has revolutionized how we handle client inquiries. It's like having a 24/7 sales team.",
+    "clientName": "Jennifer Park",
+    "completionDate": "2024-03-10",
+    "featured": false
+  },
+  {
+    "Id": 4,
+    "title": "Fitness Coach App",
+    "slug": "fitness-coach-app",
+    "category": "Mobile",
+    "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "Personal trainers wanted to scale their business by offering AI-powered workout plans and nutrition guidance to more clients.",
+    "approach": "Developed a mobile app with personalized AI coaching, progress tracking, and video exercise demonstrations.",
+    "result": "Enabled trainers to serve 5x more clients while maintaining personalization. App has 4.8-star rating with 10,000+ downloads.",
+    "techStack": ["React Native", "Firebase", "TensorFlow", "Video API", "Push Notifications"],
+    "testimonial": "The app quality is amazing. Our clients love the personalized workouts and we've tripled our revenue.",
+    "clientName": "Alex Thompson",
+    "completionDate": "2024-02-28",
+    "featured": false
+  },
+  {
+    "Id": 5,
+    "title": "Recipe Discovery Platform",
+    "slug": "recipe-discovery-platform",
+    "category": "Web",
+    "thumbnail": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1495521821757-a0c0a1b99e40?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "Food bloggers needed a platform to monetize their recipes while helping users discover meals based on dietary preferences and available ingredients.",
+    "approach": "Created a recipe discovery platform with AI-powered recommendations, ingredient substitution, and meal planning features.",
+    "result": "Platform hosts 5,000+ recipes with 50,000+ monthly active users. Bloggers increased monetization by 300%.",
+    "techStack": ["Vue.js", "Laravel", "MySQL", "Elasticsearch", "Payment Integration"],
+    "testimonial": "MasterMVP understood our vision perfectly. The platform has transformed how we connect with our audience.",
+    "clientName": "Emily Watson",
+    "completionDate": "2024-01-25",
+    "featured": false
+  },
+  {
+    "Id": 6,
+    "title": "Learning Path AI",
+    "slug": "learning-path-ai",
+    "category": "AI",
+    "thumbnail": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=800&fit=crop"
+    ],
+    "challenge": "Online educators wanted to create personalized learning paths that adapt to individual student progress and learning styles.",
+    "approach": "Built an AI system that analyzes student performance and creates dynamic, personalized curricula with progress tracking.",
+    "result": "Students complete courses 40% faster with 90% completion rate. Platform serves 3,000+ active learners across 50+ courses.",
+    "techStack": ["React", "Django", "TensorFlow", "PostgreSQL", "Video Streaming"],
+    "testimonial": "The personalization is incredible. Students are more engaged and successful than ever before.",
+    "clientName": "Dr. Robert Kim",
+    "completionDate": "2024-03-05",
+    "featured": true
+  }
+]

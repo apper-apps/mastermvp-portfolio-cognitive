@@ -1,0 +1,62 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-white text-dark font-body;
+  }
+}
+
+/* Custom toast styling */
+.Toastify__toast-container {
+  width: auto;
+  max-width: 400px;
+}
+
+.Toastify__toast {
+  @apply rounded-lg font-body text-sm;
+  background: #FFFFFF;
+  color: #0A0A0A;
+  border: 1px solid #F5F5F5;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--success {
+  border-left: 4px solid #00FF88;
+}
+
+.Toastify__toast--error {
+  border-left: 4px solid #FF3B3B;
+}
+
+.Toastify__progress-bar {
+  background: #00FF88;
+}
+
+/* Smooth cursor magnetic effect */
+.magnetic-button {
+  transition: transform 0.2s ease-out;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00FF88;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00E077;
+}
