@@ -1,7 +1,10 @@
 @import 'react-toastify/dist/ReactToastify.css';
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @layer base {
-  @tailwind base;
   * {
     @apply border-border;
   }
