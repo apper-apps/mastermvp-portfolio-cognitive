@@ -127,13 +127,16 @@ const ContactPage = () => {
               >
                 {showCalendar ? "Hide Calendar" : "Schedule Call"}
               </button>
-              {showCalendar && (
-                <div className="mt-6 p-6 bg-subtle/50 rounded-lg">
-                  <p className="text-gray-600 text-sm">
-                    Calendar integration would be embedded here
-                    <br />
-                    (Calendly, Cal.com, or similar)
-                  </p>
+{showCalendar && (
+                <div className="mt-6 p-0 bg-subtle/50 rounded-lg overflow-hidden">
+                  <iframe
+                    src="https://cal.com/kartikhimself"
+                    width="100%"
+                    height="600"
+                    frameBorder="0"
+                    title="Book a Discovery Call"
+                    className="rounded-lg"
+                  ></iframe>
                 </div>
               )}
             </Card>
